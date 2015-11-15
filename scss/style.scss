@@ -3,6 +3,13 @@ body {
   font-size: 1.5em;
 }
 
+$primaryColor: #FF0000;
+body{
+  h1{
+    color: $primaryColor;
+  }
+}
+
 #team-members {
   clear: both;
 }
