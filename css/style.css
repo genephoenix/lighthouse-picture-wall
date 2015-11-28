@@ -24,7 +24,9 @@ body {
         position: absolute;
         left: 0;
         height: 200px;
-        width: 200px; }
+        width: 200px;
+        border-radius: 50%;
+        box-shadow: 5px 5px 5px black; }
         #team-members .member .image_transition img.normal:hover {
           opacity: 0.2; }
     #team-members .member div.name {
